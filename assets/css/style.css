@@ -35,7 +35,7 @@ body {
     color: rgb(44, 39, 39);
     background: #bd2828;
     box-shadow: 40px 0px 90px #808080, -40px 0px 90px #808080;
-    border: 3px inset #bd2828;
+    border: 4px inset #bd2828;
   }
   
   
@@ -121,7 +121,7 @@ body {
   
   footer {
     position: absolute;
-    bottom: 0;
+    bottom: 0px;
     left: 0px;
     width: 100%;
     height: 60px;
@@ -167,7 +167,7 @@ body {
     font-weight: lighter;
     color: rgb(31, 28, 28);
     background-color:#bd2828;
-    border: 8px inset #bd2828;
+    border: 9px inset #bd2828;
   }
   
   .submit-btn:hover {
